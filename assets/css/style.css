@@ -123,3 +123,11 @@ footer {
         margin-top: 79px;
     }
 }
+
+/* Media query: larger devices (laptops an desktops, 992px and higher) */
+@media screen and (min-width: 992px) {
+    #menu a:hover {
+        border-bottom: 1px solid #3a3a3a;
+    }
+    
+}
