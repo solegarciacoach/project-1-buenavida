@@ -18,6 +18,13 @@ body {
     font-family: 'Cormorant+Garamond', sans-serif;
 }
 
+h1, h2, h3 {
+    font-family: 'Cormorant+Garamond', sans-serif ;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #252525;
+}
+
 /* Header */
 header {
     background-color: #ffffff;
@@ -35,12 +42,7 @@ header a {
     text-decoration: none;
     color: inherit;
 }
-h1 {
-    font-family: 'Cormorant+Garamond', sans-serif ;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: #252525;
-}
+
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
@@ -85,11 +87,34 @@ main {
     margin-top: 39px;
 }
 
+/* Hero */
+#cover-text {
+    width: 300px;
+    left: 30px;
+}
+
 /* Hero section */
 #hero {
     height: 600px;
     width: 100%;
     background: url("../images/hero-image.webp") center center / cover no-repeat;
+    position: relative;
+}
+
+#cover-text {
+    /* Final rgba value set the opacity so it is semi-transparent */
+    background-color: rgba(102, 205, 170, .7);
+    font-size: 130%;
+    position: absolute;
+    bottom: 30px;
+    width: 80%;
+    min-height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+}
+
+#cover-text > h2, #cover-text > h3 {
+    color: #ffffff;
 }
 
 /* Footer */
