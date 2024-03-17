@@ -131,22 +131,37 @@ main {
 
 }
 
-#story-text {
+#story .story-content {
     line-height: 20px;
     margin-bottom: 20px;
 }
 
-#story-text p {
+.story-content p {
     padding: 0 20px;
     text-align: justify;
     
 }
 
-#story-text hr {
+.story-content hr {
     border-top: 1px solid #3a3a3a;
     margin: 5px 0;
 }
 
+.story-image {
+    height: 90vw;
+    width: 90vw;
+    background: url("../images/story.webp") center center / cover no-repeat;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.first {
+    float: left;
+}
+
+.second {
+    float: right;
+}
 
 /* Footer */
 #social-networks {
