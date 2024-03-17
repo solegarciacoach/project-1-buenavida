@@ -153,6 +153,11 @@ main {
     background: url("../images/story.webp") center center / cover no-repeat;
     position: relative;
     margin-bottom: 20px;
+    max-width: 500px;
+    max-height: 500px;
+    display: flex;
+    align-items: right;
+    justify-content: right;
 }
 
 .first {
@@ -208,6 +213,24 @@ main {
         /* Push main content own to accomoate larger header */
         margin-top: 79px;
     }
+}
+
+/* Story section */
+.story-content, 
+.story-image {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.story-content > div, 
+.story-image > div {
+    width: 75%;
+}
+
+.story-image > div {
+    text-align: end;
+    align-self: flex-end;
 }
 
 /* Media query: larger devices (laptops an desktops, 992px and higher) */
