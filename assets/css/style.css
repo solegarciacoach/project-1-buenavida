@@ -155,15 +155,11 @@ main {
     margin-bottom: 20px;
     max-width: 500px;
     max-height: 500px;
-    display: flex;
-    align-items: right;
-    justify-content: right;
 }
 
 .story-container {
     display: flex;
 }
-
 
 /* Footer */
 #social-networks {
