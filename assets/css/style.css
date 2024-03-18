@@ -134,6 +134,7 @@ main {
 #story .story-content {
     line-height: 20px;
     margin-bottom: 20px;
+    width: 70%;
 }
 
 .story-content p {
@@ -159,6 +160,9 @@ main {
 
 .story-container {
     display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
 }
 
 /* Footer */
