@@ -160,13 +160,10 @@ main {
     justify-content: right;
 }
 
-.first {
-    float: left;
+.story-container {
+    display: flex;
 }
 
-.second {
-    float: right;
-}
 
 /* Footer */
 #social-networks {
