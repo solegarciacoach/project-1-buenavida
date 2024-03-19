@@ -267,23 +267,6 @@ main {
     }
 }
 
-/* Story section */
-.story-content,
-.story-image {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-}
-
-.story-content>div,
-.story-image>div {
-    width: 75%;
-}
-
-.story-image>div {
-    text-align: end;
-    align-self: flex-end;
-}
 
 /* Media query: larger devices (laptops an desktops, 992px and higher) */
 @media screen and (min-width: 992px) {
