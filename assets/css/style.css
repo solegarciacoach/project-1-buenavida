@@ -163,7 +163,51 @@ main {
 
 
 /* Masterclass section */
-
+.masterclass {
+    background-color: #e3e7da;
+    padding: 2rem;
+  }
+  
+  .text-content-masterclass {
+    display: flex;
+    align-items: flex-start;
+    /* Vertically align content at top */
+    flex-direction: column;
+  }
+  
+  .text-content-masterclass h2,
+  h3, h4 {
+    margin: 0 0 1rem 0;
+  }
+  
+  ul {
+    list-style-position: inside;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .image-content-masterclass {
+    max-width: 100%;
+    /* Allow image to shrink, but not grow beyond its original size */
+    height: auto;
+    /* Maintain aspect ratio */
+    margin-right: 2rem;
+    align-self: center;
+    border: 5px solid #ccc;
+  }
+  
+  .image-masterclass {
+    max-width: 100%;
+    /* Allow image to shrink, but not grow beyond its original size */ 
+  }
+  
+  .flex-container-masterclass {
+    display: flex;
+    flex-direction: column;
+    /* This makes the child elements sit side by side */
+    justify-content: space-between;
+    /* Adjusts spacing between the children */
+  }
 
 
 
@@ -248,3 +292,15 @@ main {
     }
 
 }
+
+/* Media Query for screens smaller than 600px */
+@media (max-width: 600px) {
+    .flex-container-story {
+      flex-direction: column;
+      /* Stack children vertically on small screens */
+    }
+    .flex-container-masterclass {
+      flex-direction: column;
+      /* Stack children vertically on small screens */
+    }  
+  }
