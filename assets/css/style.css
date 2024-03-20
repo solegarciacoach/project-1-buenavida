@@ -239,13 +239,13 @@ ul {
   background-color: rgba (60, 60, 60, 0.6);
 }
 
-#signup-form > h2 {
+#signup-form>h2 {
   color: #fafafa;
   margin-bottom: 20px;
 }
 
 .text-input {
-  background:transparent;
+  background: transparent;
   color: #fafafa;
   width: 100%;
   height: 25px;
@@ -332,7 +332,35 @@ ul {
 
 }
 
-/* Media Query for screens smaller than 600px */
+/* Media query: screens smaller than 600px */
+@media screen and (min-width: 768px) {
+
+  /* Form */
+  #signup {
+    background-position: center;
+    position: relative;
+  }
+
+  #signup-form {
+    max-width: 400px;
+  }
+
+  .text-input:hover {
+    border-color: #f16c6b;
+  }
+
+  .join-button:hover {
+    background-color: #fafafa;
+    color: #454b1b;
+  }
+
+}
+
+
+
+
+
+/* Media query: screens smaller than 600px */
 @media (max-width: 600px) {
   .flex-container-story {
     flex-direction: column;
