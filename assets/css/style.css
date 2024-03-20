@@ -216,7 +216,7 @@ ul {
 
 /* Signup section */
 #signup {
-  background-image: url(../images/signup.jpeg);
+  background-image: url(../images/signup.jpg);
   background-size: cover;
   background-position: 75%;
   padding: 2rem;
@@ -355,9 +355,6 @@ ul {
   }
 
 }
-
-
-
 
 
 /* Media query: screens smaller than 600px */
