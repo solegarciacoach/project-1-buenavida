@@ -209,7 +209,11 @@ main {
     /* Adjusts spacing between the children */
   }
 
-
+  /* Signup section */
+  #signup {
+  background-color: #f0f0f0;
+  padding: 2rem;
+}
 
 
 
@@ -286,4 +290,8 @@ main {
       flex-direction: column;
       /* Stack children vertically on small screens */
     }  
+    .flex-container-signup {
+      flex-direction: column;
+      /* Stack children vertically on small screens */
+    } 
   }

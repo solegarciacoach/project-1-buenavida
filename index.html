@@ -34,14 +34,14 @@
 
     <!-- Main content -->
     <main>
-
+        <!-- Hero section -->
         <section id="hero">
             <div id="cover-text" class="first">
                 <h2>Join our wellness movement!</h2>
                 <h3>Free masterclass on stress</h3>
             </div>
         </section>
-
+        <!-- Story section -->
         <section class="story">
             <div class="flex-container-story">
                 <div class="text-content-story">
@@ -74,7 +74,7 @@
                 </div>
             </div>
         </section>
-
+        <!-- Masterclass section -->
         <section class="masterclass">
             <div class="flex-container-masterclass">
                 <div class="text-content-masterclass">
@@ -123,6 +123,50 @@
                 </div>
             </div>
         </section>
+        <!-- Signup section -->
+        <section id="signup">
+            <div class="flex-container-signup">
+                <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
+                    <h2><i class="fa-solid fa-heartbeat"></i> Let's get you signed up!</h2>
+                    <label for="first_name">First Name</label>
+                    <input type="text" name="first_name" id="first_name" class="text-input" required>
+                    <br>
+                    <label for="last_name">Last Name</label>
+                    <input type="text" name="last_name" id="last_name" class="text-input" required>
+                    <br>
+                    <label for="email_address">Email Address</label>
+                    <input type="email" name="email_address" id="email_address" class="text-input" required>
+                    <br>
+                    <div class="radio-buttons">
+                        <div>
+                            <label for="masterclass">Free masterclass</label>
+                            <input type="radio" name="signup_preference" id="masterclass" value="masterclass" required checked>
+                        </div>
+                        <div>
+                            <label for="newsletter">Monthly newsletters</label>
+                            <input type="radio" name="signup_preference" id="newsletter" value="newsletter" required>
+                        </div>
+                        <div>
+                            <label for="both">Both</label>
+                            <input type="radio" name="signup_preference" id="both" value="both" required>
+                        </div>
+                    </div>
+                    <button type="submit" class="join-button">Let's start <strong>Buenavida</strong>!</button>
+                </form>
+            </div>
+        </section>
+    </main>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
