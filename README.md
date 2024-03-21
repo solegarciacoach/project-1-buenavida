@@ -22,9 +22,12 @@ The website aims to convert visitors into masterclass participants.
 
 ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
-- __Header__
+- __The Header__
 
-  - A compelling header image and powerful headline to capture visitor attention.
+  - The header shows a compelling header image, powerful headline an clear CTA buttom to capture visitor attention.
+    - The header image an headline explains the brand's vision and a free masterclass coming up. 
+    - The clear CTA buttom invites the user to learn more about the free masterclass, and finally sign up. 
+  - The header provides the user with clear information about what the site is and who it is for.
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
