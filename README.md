@@ -33,7 +33,7 @@ The website aims to convert visitors into masterclass participants.
 
 - __Our story section__
 
-  - Our story section gives details about Buenavida inspiring origin, founders, brand vision and benefits.
+  - **Our story** section gives details about Buenavida inspiring origin, founders, brand vision and benefits.
   - This section has a complelling image of Buenavida founders to promote an authentic connection with users.
   - The user will see the value of signing up for the free masterclass. This should encourage the user to consider working on their wellbeing as their new way of living. 
 
@@ -41,11 +41,10 @@ The website aims to convert visitors into masterclass participants.
 
 - __Masterclass section__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
-  Highlights details, benefits, and instructions on how to sign up for the "STRESS REDUCTION AND ENHANCED WELLNESS" masterclass.
+  - The **Masterclass** section will allow the user to see exactly what the free masterclass "Stress reduction and enhanced wellness" is about, highlights content details, benefits, when it will take place and instructions on how to sign up.
+  - This section will be updated as free masterclassess change to keep the user up to date. 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Masterclass](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
 - __Sign Up section__
 
