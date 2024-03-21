@@ -102,8 +102,9 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 - The code to make the navigation bar and social media links were taken from the CI Love Running project. {ADD LINK}
 - Instructions on how to implement media queries to make the landing page responsive was taken from [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries).
 - The typography of the website was taken from [Google Fonts](https://fonts.google.com/).
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/).
 
 ### Media
 
+- The favicon icon displayed next to the page title in the browser tab was taken from [Favicon](https://favicon.io/).
 - The images in the header, our story, masterclass and sign up sections were taken from [Pexels](https://www.pexels.com/).
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/).
