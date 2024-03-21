@@ -14,9 +14,11 @@ The website aims to convert visitors into masterclass participants.
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
-  Clear and concise navigation for easy website exploration.
+  - Featured at the top of the page, the full responsive navigation bar includes the following links:
+    - **BUENAVIDA**, the brand name and logo, in the left corner and links to the top of the page.
+    - **Our story**, **Masterclass** and **Sign up** links in the right corner which link to different sections of the same page.
+   - The navigation clearly tells the user the name of the brand and website and makes the different sections of the information easy to find. 
+  - The navigation allows the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
