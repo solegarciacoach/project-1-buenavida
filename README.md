@@ -68,14 +68,10 @@ The website aims to convert users into masterclass participants.
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
+- I tested that this page works in different browsers: Chrome, Firefox and Safari.
+- I confirmed that this project is responsive, looks good and functions on all standard screen sizes using the devtools device toolbar.
+- I confirmed that the navigation, header, our story, masterclass and sign up text are all readable and easy to understand.
+- I have confirmed that the form works: requires entries in every field, will only accept an email in the email field, and the submit button works.
 
 ### Validator Testing 
 
