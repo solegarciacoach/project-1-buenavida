@@ -1,14 +1,14 @@
-# Love Running
+# Buenavida, your wellness transformation
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
+The Buenavida website is a landing page designed for busy adults aged 25-40 looking to improve their wellbeing and achieve greater calm, focus, and work-life balance.
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+Users of this website will be able to find all the information they need to know about Buenavida: About the brand story, free masterclass information, sign up form and contact information. 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+The website aims to convert visitors into masterclass participants.
+
+![Responsive Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
 ## Features 
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Existing Features
 
@@ -16,8 +16,15 @@ In this section, you should go over the different parts of your project, and des
 
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  Clear and concise navigation for easy website exploration.
 
 ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+
+- __Header__
+
+  - A compelling header image and powerful headline to capture visitor attention.
+
+![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
 - __The landing page image__
 
@@ -26,17 +33,27 @@ In this section, you should go over the different parts of your project, and des
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
-- __Club Ethos Section__
+- __Our Story Section__
 
   - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
   - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  Shares the inspiring origin of Buenavida, establishing an authentic connection with visitors.
 
 ![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
-- __Meetup Times section__
+- __Masterclass section__
 
   - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
   - This section will be updated as these times change to keep the user up to date. 
+  Highlights details, benefits, and instructions on how to sign up for the "STRESS REDUCTION AND ENHANCED WELLNESS" masterclass.
+
+![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+
+- __Sign Up section__
+
+  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
+  - This section will be updated as these times change to keep the user up to date. 
+ A prominent form for masterclass registration and an optional newsletter subscription.
 
 ![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
@@ -44,6 +61,7 @@ In this section, you should go over the different parts of your project, and des
 
   - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
+  Contains links to Buenavida's social media platforms for increased engagement.
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
