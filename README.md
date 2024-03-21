@@ -24,27 +24,20 @@ The website aims to convert visitors into masterclass participants.
 
 - __The Header__
 
-  - The header shows a compelling header image, powerful headline an clear CTA buttom to capture visitor attention.
-    - The header image an headline explains the brand's vision and a free masterclass coming up. 
+  - The header includes a compelling photopgraph with text overlay and a clear CTA button to capture user attention.
+    - The header photograph with text overlay explains the brand's vision and a free masterclass coming up. 
     - The clear CTA buttom invites the user to learn more about the free masterclass, and finally sign up. 
   - The header provides the user with clear information about what the site is and who it is for.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Header](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
-- __The landing page image__
+- __Our story section__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - Our story section gives details about Buenavida inspiring origin, founders, brand vision and benefits.
+  - This section has a complelling image of Buenavida founders to promote an authentic connection with users.
+  - The user will see the value of signing up for the free masterclass. This should encourage the user to consider working on their wellbeing as their new way of living. 
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
-
-- __Our Story Section__
-
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
-  Shares the inspiring origin of Buenavida, establishing an authentic connection with visitors.
-
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Our story](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
 - __Masterclass section__
 
