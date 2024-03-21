@@ -48,37 +48,19 @@ The website aims to convert users into masterclass participants.
 
 - __The *Sign up* section__
 
-  - The *Sign up* section has a form to collect details from users so they can sign up to the free masterclass.
-  - The form collects the user's name, surname and an email address for the free masterclass registration
-  - The form also allows the user to optionally subscribe to the monthly newsletter.
+  - The *Sign up* section allow the user to get signed up to the free masterclass "Stress reduction and enhanced wellness" to start their wellness journey with the Buenavida community. 
+  - The sign up form collects the user's first name, last names and an email address.
+  - The sign up form also allows the user to optionally subscribe to the monthly newsletter.
   - The form is valuable to the user as it gives them the ability to sign up to join the free masterclass.
 
 ![Sign up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
-  Contains links to Buenavida's social media platforms for increased engagement.
+  - The footer section includes links to the relevant social media sites for Buenavida. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media and increased engagement.
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
-
-- __Gallery__
-
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
-
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
-
-- __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
-
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 
