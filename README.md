@@ -4,7 +4,7 @@ The Buenavida website is a landing page designed for busy adults aged 25-40 look
 
 Users of this website will be able to find all the information they need to know about Buenavida: About the brand story, free masterclass information, sign up form and contact information. 
 
-The website aims to convert visitors into masterclass participants.
+The website aims to convert users into masterclass participants.
 
 ![Responsive Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
@@ -31,28 +31,29 @@ The website aims to convert visitors into masterclass participants.
 
 ![Header](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
-- __Our story section__
+- __The *Our story* section__
 
-  - **Our story** section gives details about Buenavida inspiring origin, founders, brand vision and benefits.
+  - The *Our story* section gives details about Buenavida inspiring origin, founders, brand vision and benefits.
   - This section has a complelling image of Buenavida founders to promote an authentic connection with users.
   - The user will see the value of signing up for the free masterclass. This should encourage the user to consider working on their wellbeing as their new way of living. 
 
 ![Our story](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
-- __Masterclass section__
+- __The *Masterclass* section__
 
-  - The **Masterclass** section will allow the user to see exactly what the free masterclass "Stress reduction and enhanced wellness" is about, highlights content details, benefits, when it will take place and instructions on how to sign up.
+  - The *Masterclass* section will allow the user to see exactly what the free masterclass "Stress reduction and enhanced wellness" is about, highlights content details, benefits, when it will take place and instructions on how to sign up.
   - This section will be updated as free masterclassess change to keep the user up to date. 
 
 ![Masterclass](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
-- __Sign Up section__
+- __The *Sign up* section__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
- A prominent form for masterclass registration and an optional newsletter subscription.
+  - The *Sign up* section has a form to collect details from users so they can sign up to the free masterclass.
+  - The form collects the user's name, surname and an email address for the free masterclass registration
+  - The form also allows the user to optionally subscribe to the monthly newsletter.
+  - The form is valuable to the user as it gives them the ability to sign up to join the free masterclass.
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Sign up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
 - __The Footer__ 
 
