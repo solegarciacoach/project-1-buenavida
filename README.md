@@ -76,9 +76,9 @@ The website aims to convert users into masterclass participants.
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html).
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css).
 - Accesibility
   - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools device toolbar. {ADD SCREENSHOT}
 
@@ -100,9 +100,9 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 ### Content 
 
 - The code to make the navigation bar and social media links were taken from the CI Love Running project. {ADD LINK}
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The typography of the website was taken from [Google Fonts](https://fonts.google.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- Instructions on how to implement media queries to make the landing page responsive was taken from [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries).
+- The typography of the website was taken from [Google Fonts](https://fonts.google.com/).
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/).
 
 ### Media
 
