@@ -1,4 +1,4 @@
-# Buenavida, your wellness transformation
+# Buenavida, a wellness website
 
 The Buenavida website is a landing page designed for busy adults aged 25-40 looking to improve their wellbeing and achieve greater calm, focus, and work-life balance.
 
