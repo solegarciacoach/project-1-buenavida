@@ -6,7 +6,7 @@ Users of this website will be able to find all the information they need to know
 
 The website aims to convert users into masterclass participants.
 
-![Responsive Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsive Mockup](assets/readme-images/responsive-mockup.webp)
 
 ## Features 
 
@@ -20,7 +20,7 @@ The website aims to convert users into masterclass participants.
    - The navigation clearly tells the user the name of the brand and website and makes the different sections of the information easy to find. 
   - The navigation allows the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](assets/readme-images/nav-bar.png)
+![Nav Bar](assets/readme-images/nav-bar.webp)
 
 - __The Header__
 
@@ -29,7 +29,7 @@ The website aims to convert users into masterclass participants.
     - The clear CTA buttom invites the user to learn more about the free masterclass, and finally sign up. 
   - The header provides the user with clear information about what the site is and who it is for.
 
-![Header](assets/readme-images/header-section.png)
+![Header](assets/readme-images/header-section.webp)
 
 - __The *Our story* section__
 
@@ -37,14 +37,14 @@ The website aims to convert users into masterclass participants.
   - This section has a complelling image of Buenavida founders to promote an authentic connection with users.
   - The user will see the value of signing up for the free masterclass. This should encourage the user to consider working on their wellbeing as their new way of living. 
 
-![Our story](assets/readme-images/story-section.png)
+![Our story](assets/readme-images/story-section.webp)
 
 - __The *Masterclass* section__
 
   - The *Masterclass* section will allow the user to see exactly what the free masterclass "Stress reduction and enhanced wellness" is about, highlights content details, benefits, when it will take place and instructions on how to sign up.
   - This section will be updated as free masterclassess change to keep the user up to date. 
 
-![Masterclass](assets/readme-images/masterclass-section.png)
+![Masterclass](assets/readme-images/masterclass-section.webp)
 
 - __The *Sign up* section__
 
@@ -53,7 +53,7 @@ The website aims to convert users into masterclass participants.
   - The sign up form also allows the user to optionally subscribe to the monthly newsletter.
   - The form is valuable to the user as it gives them the ability to sign up to join the free masterclass.
 
-![Sign up](assets/readme-images/signup-section.png)
+![Sign up](assets/readme-images/signup-section.webp)
 
 - __The Footer__ 
 
@@ -61,7 +61,7 @@ The website aims to convert users into masterclass participants.
   - The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media and increased engagement.
 
-![Footer](assets/readme-images/footer.png)
+![Footer](assets/readme-images/footer.webp)
 
 ### Features Left to Implement
 
@@ -82,7 +82,7 @@ The website aims to convert users into masterclass participants.
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css).
 - Accesibility
   - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools device toolbar.
-  ![Lighthouse](assets/readme-images/lighthouse-analysis.png)
+  ![Lighthouse](assets/readme-images/lighthouse-analysis.webp)
 
 ### Unfixed Bugs
 
