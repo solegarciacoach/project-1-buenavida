@@ -100,7 +100,7 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 
 ### Content 
 
-- The code to make the navigation bar and social media links were taken from the CI Love Running project. {ADD LINK}
+- The code to make the navigation bar and sign up form were taken from the CI Love Running project. {ADD LINK}
 - Instructions on how to implement media queries to make the landing page responsive was taken from [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries).
 - The typography of the website was taken from [Google Fonts](https://fonts.google.com/).
 
