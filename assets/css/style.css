@@ -286,6 +286,7 @@ ul {
   color: #3a3a3a;
 }
 
+
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 
@@ -332,7 +333,7 @@ ul {
 
 }
 
-/* Media query: screens smaller than 600px */
+/* Media query: screens min 768px */
 @media screen and (min-width: 768px) {
 
   /* Form */
