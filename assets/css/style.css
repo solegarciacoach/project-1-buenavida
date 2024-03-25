@@ -71,6 +71,10 @@ nav {
   top: 100%;
 
 }
+/* Header adjustment to show sections at the beginning when clicking*/
+#story, #masterclass, #signup {
+  scroll-margin-top: 100px;  
+}
 
 /* Nav toggle */
 #nav-toggle:checked~nav {
