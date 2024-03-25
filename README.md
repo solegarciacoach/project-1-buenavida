@@ -95,7 +95,7 @@ The website aims to convert users into masterclass participants.
   - From the source section drop-down menu, select the Master Branch.
   - Once the master branch has been selected, the page provided the link to the completed website.
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - https://solegarciacoach.github.io/project-1-buenavida/
 
 ## Credits 
 
