@@ -57,7 +57,8 @@ The website aims to convert users into masterclass participants.
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Buenavida. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer section includes links to the relevant social media sites for Buenavida: Facebook, Instagram and Twitter.
+  - The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media and increased engagement.
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
